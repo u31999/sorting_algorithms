@@ -1,2 +1,3 @@
 # ALX-AE
-# sorting-algorithms
+# sorting-algorithms:
+- [0. Bubble sort](0-bubble_sort.c)
